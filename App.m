@@ -1,4 +1,4 @@
-classdef m < matlab.apps.AppBase
+classdef App < matlab.apps.AppBase
 
     % Properties that correspond to app components
     properties (Access = public)
