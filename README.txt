@@ -13,6 +13,10 @@ Note: by clicking "reset", all the timbre values default to 0, which is
       interpreted as a standard harmonic progression, where each harmonic
       has (1/n)^n times the amplitude of the fundamental tone.
 
+Note: GUI.mlapp is how I designed the app, but for ease of access, I have
+      created App.m. If you run the code in App.m, it launches the app as
+      intended.
+
 In the future, I hope to be able to improve the GUI experience, and I also
 want to implement Discrete Fourier Transforms to obtain a different method
 of synthesizing waves, as well as a Fourier Spectrum Graph to visualize
